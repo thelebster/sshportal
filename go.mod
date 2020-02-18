@@ -15,14 +15,14 @@ require (
 	github.com/mattn/go-isatty v0.0.4 // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
-	github.com/moby/moby v0.7.3-0.20190103212154-2b7e084dc98b
+	github.com/moby/moby v1.13.1
 	github.com/olekukonko/tablewriter v0.0.1
-	github.com/reiver/go-oi v0.0.0-20160325061615-431c83978379
+	github.com/reiver/go-oi v1.0.0
 	github.com/reiver/go-telnet v0.0.0-20180421082511-9ff0b2ab096e
 	github.com/sabban/bastion v0.0.0-20180110125408-b9d3c9b1f4d3
 	github.com/smartystreets/assertions v0.0.0-20190401211740-f487f9de1cd3 // indirect
 	github.com/smartystreets/goconvey v1.6.4-0.20190330032615-68dc04aab96a
-	github.com/urfave/cli v1.20.0
+	github.com/urfave/cli/v2/v2 v2.1.1
 	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8
 	golang.org/x/sys v0.0.0-20190613124609-5ed2794edfdc // indirect
 	google.golang.org/appengine v1.6.1 // indirect
